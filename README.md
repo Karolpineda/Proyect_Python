@@ -31,8 +31,7 @@ docker run -p 5000:5000 karolpineda/app-python:version1.0
 
    ```
 
-> **💡 Note:** This is a general note.
->
+> [!IMPORTANT]
 > By default of python we use the port 5000. If it is required to deploy it on a different port, only 5000 must be modified for another desired port.
 
 ## 🔍 View the results
